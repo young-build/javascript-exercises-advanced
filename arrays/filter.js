@@ -9,12 +9,12 @@
 
  /**
   * a callback function that will be passed to the map argument of number array
-  * @param {number} number 
+  * @param {string} number 
   * @param {number} index 
   * @returns {boolean}
   */
  function filterArrayString(number, index) {
-   throw new Error("implement function first")
+  throw new Error("implement function first")
  }
  
  /**
